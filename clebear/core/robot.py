@@ -13,6 +13,7 @@ from clebear.core.utils import load_module
 
 
 def judge(solution=None, method=None, io_equal=None):
+    method = getattr(solution(), method)
     pass
 
 
