@@ -11,12 +11,13 @@
 # actual case  
 - [ ] 分发饼干 -455  
 - [ ] 柠檬水找零 -890  
-- [ ] 无重叠区间 - 435  
-- [ ] 用最少数量的箭引爆气球 - 452  
-- [ ] 区间合并 - 56  
-- [ ] 跳跃游戏  
-- [ ] 跳跃游戏 II  
-
+- [ ] 无重叠区间 -435  
+- [ ] 用最少数量的箭引爆气球 -452  
+- [ ] 区间合并 -56  
+- [ ] 跳跃游戏  -55
+- [ ] 跳跃游戏 II  -45
+- [ ] 判断子序列  -392
+- [ ] 买卖股票的最佳时机 II  -122
 
 
 # question thinking  
@@ -29,7 +30,13 @@
 
 
 2. 贪心算法、动态规划和回溯算法的区别在哪里？
-https://leetcode-cn.com/leetbook/read/greedy/rv95h7/
 
+
+
+# refer
+- 贪心算法：
+https://leetcode-cn.com/leetbook/read/greedy/rv95h7/
+- 查找某一个题目：
+https://leetcode-cn.com/problemset/all/?search=%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97
 
 
